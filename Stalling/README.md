@@ -1,6 +1,6 @@
 ## Example simulation of "parasite-induced migratory stalling"
 
-![Alt Text](Migration_model/Stalling/StallingGIF.gif )
+![Alt Text](https://github.com/sjpeacock/Migration_model/blob/master/Stalling/StallingGIF.gif)
 
 Simulation shows the density along a migration corrdior from 0 to 2000 km of 
 
